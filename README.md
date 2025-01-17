@@ -1,4 +1,4 @@
-Kuş Arama ve Değerlendirme Sistemi
+#Kuş Arama ve Değerlendirme Sistemi
 
 Bu Python kodu, Excel veri setlerinden kuş türleri ve onların gözlem verileriyle ilgili bilgileri alıp, kullanıcının belirttiği habitat, diyet, tarih ve konum gibi kriterlere dayalı olarak kuş türlerini değerlendiren bir sistem sunar. Kod, çeşitli skorlar hesaplayarak öncelikli kuş türlerini listeler.
 
